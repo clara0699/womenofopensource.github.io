@@ -20,7 +20,7 @@ profiles:
 
 ---
 
-Clara Thébert is a Policy Advisor at OpenForum Europe, a Brussels-based independent and not-for-profit think tank dedicated to championing the transformative power of open technologies in society. 
+Clara Thébert is a Policy Advisor at OpenForum Europe, a Brussels-based independent and not-for-profit think tank dedicated to championing the transformative power of open technologies in society.
 
 She works on different topics revolving around EU Digital & Tech Policy.
 
